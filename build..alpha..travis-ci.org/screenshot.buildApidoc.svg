@@ -3,7 +3,7 @@
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-04-21T14:29:24.679Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-04-21T15:20:13.423Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
 <tspan x="10" y="58">ode-swgg-github-projects</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -15,7 +15,7 @@
 
 <tspan x="10" y="138">override assets assets.swgg.swagger.json</tspan>
 
-<tspan x="10" y="154">&gt; server listening on http-port 45387</tspan>
+<tspan x="10" y="154">&gt; server listening on http-port 39168</tspan>
 
 <tspan x="10" y="170">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-projects/package.json</tspan>
 
@@ -49,9 +49,9 @@
 
 <tspan x="10" y="426">[node test-case 1 of 1 passed] - testCase_buildApidoc_default</tspan>
 
-<tspan x="10" y="442">(node:7336) ExperimentalWarning: The http2 module is an experimental API.</tspan>
+<tspan x="10" y="442">(node:7412) ExperimentalWarning: The http2 module is an experimental API.</tspan>
 
-<tspan x="10" y="458">(node:7336) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+<tspan x="10" y="458">(node:7412) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
 
 <tspan x="10" y="474"></tspan>
 
@@ -62,23 +62,23 @@
 
 <tspan x="10" y="538">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="554">| test-report - buildApidoc - node - linux v9.11.1 - 2018-04-21T14:29:24.884Z</tspan>
+<tspan x="10" y="554">| test-report - buildApidoc - node - linux v9.11.1 - 2018-04-21T15:20:13.653Z</tspan>
 
-<tspan x="10" y="570">|     227 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="570">|     262 ms            0 failed        1 passed      |</tspan>
 
 <tspan x="10" y="586">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="602">| test-report - buildApp - node - linux v9.11.1 - 2018-04-21T14:28:05.016Z</tspan>
+<tspan x="10" y="602">| test-report - buildApp - node - linux v9.11.1 - 2018-04-21T15:18:50.418Z</tspan>
 
-<tspan x="10" y="618">|   77099 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="618">|   80176 ms            0 failed        8 passed      |</tspan>
 
 <tspan x="10" y="634">-------------------------------------------------------</tspan>
 
 <tspan x="10" y="650">| test-report - npmTest - browser - /index.default.html - Mozilla/5.0 (X11; Linux x86_64) AppleW\</tspan>
 <tspan x="10" y="666">ebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Electron/1.7.13 Safari/537.36 - 2018-04-21\</tspan>
-<tspan x="10" y="682">T14:29:07.470Z</tspan>
+<tspan x="10" y="682">T15:19:56.053Z</tspan>
 
-<tspan x="10" y="698">|      28 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="698">|      51 ms            0 failed        8 passed      |</tspan>
 
 <tspan x="10" y="714">-------------------------------------------------------</tspan>
 
@@ -97,7 +97,7 @@
 
 <tspan x="10" y="842"></tspan>
 
-<tspan x="10" y="858">[MODE_BUILD=buildApidoc] - 2018-04-21T14:29:26.584Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="858">[MODE_BUILD=buildApidoc] - 2018-04-21T15:20:15.482Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
