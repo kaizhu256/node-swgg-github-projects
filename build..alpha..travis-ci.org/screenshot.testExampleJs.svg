@@ -3,7 +3,7 @@
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">&gt; swgg-github-projects@2018.1.16 postinstall /tmp/app/node_modules/swgg-github-projects</tspan>
+<tspan x="10" y="42">&gt; swgg-github-projects@2018.4.21 postinstall /tmp/app/node_modules/swgg-github-projects</tspan>
 
 <tspan x="10" y="58">&gt; [ ! -f npm_scripts.sh ] || ./npm_scripts.sh shNpmScriptPostinstall</tspan>
 
@@ -25,9 +25,9 @@
 
 <tspan x="10" y="202"></tspan>
 
-<tspan x="10" y="218">+ swgg-github-projects@2018.1.16</tspan>
+<tspan x="10" y="218">+ swgg-github-projects@2018.4.21</tspan>
 
-<tspan x="10" y="234">added 1 package in 1.028s</tspan>
+<tspan x="10" y="234">added 1 package in 3.243s</tspan>
 
 <tspan x="10" y="250">server starting on port 8081</tspan>
 
